@@ -11,6 +11,6 @@
 我喜欢的一个故事叫《皇帝的新装》，里面有个天真的孩子，无心说出了真相。
 
 ```
-![emperor](https://raw.githubusercontent.com/liuyandong/clothes/master/emperor.jpg)
+<img src="https://raw.githubusercontent.com/liuyandong/clothes/master/emperor.jpg" class="pull-right" width="400" />
 ```
 
